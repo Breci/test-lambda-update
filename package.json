@@ -1,0 +1,19 @@
+{
+  "name": "lambdagitupdate",
+  "version": "1.0.0",
+  "description": "helloofd fdsf ddddqdsdfd ddddsqdqsd dddqsddsds dddsqdqs fds ffffdsfdsddddddd ffffdfs ffdfdsdqdsdsdsdsdsdnnnnnsdssssssqsdsdsd ddfffsdffssqddfdssddsdsqdssssssds sdsd dssddds dfsd sdds",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Breci/test-lambda-update.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Breci/test-lambda-update/issues"
+  },
+  "homepage": "https://github.com/Breci/test-lambda-update#readme"
+}
